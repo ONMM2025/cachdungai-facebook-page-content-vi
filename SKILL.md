@@ -1,6 +1,6 @@
 ---
 name: facebook-page-content-vi
-description: Soạn bài đăng, caption, hook và lời kêu gọi hành động bằng tiếng Việt cho Fan Page Facebook theo độc giả và mục tiêu cụ thể. Dùng khi cần nội dung đúng ngữ cảnh Facebook thay vì chép một đoạn từ blog.
+description: Soạn bài mới cho Facebook Page từ chủ đề hoặc brief, gồm hook, caption và CTA. Dùng cho nội dung nguyên bản của Page; không chuyển thể một bài blog thành nhiều định dạng.
 ---
 
 # Biên tập nội dung Fan Page Facebook
@@ -36,7 +36,7 @@ Nếu thiếu thông tin, nêu giả định ngắn và tạo bản nháp có th
 - Mục tiêu và đối tượng của bài.
 - Ba hook để chọn.
 - Bản caption hoàn chỉnh.
-- Gợi ý ảnh/video hoặc dòng chữ trên visual.
+- Gợi ý ảnh/video, dòng chữ trên visual và alt text mô tả hình cho trình đọc màn hình.
 - CTA và link đích.
 - Một câu hỏi thảo luận có giá trị, chỉ khi phù hợp.
 - Lưu ý kiểm duyệt: claim hoặc điều kiện cần xác nhận.
